@@ -1,0 +1,48 @@
+{
+  "login": {
+    "username":"admin","password":"123"
+  },
+  "useradd": {
+    "nickname":"hahaha",
+    "username":"ceshi",
+    "password":"123",
+    "gender":null,
+    "idcard":"",
+    "phonenumber":"",
+    "cellphonenumber":"",
+    "email":"","wechat":"",
+    "qq":"","imageurl":"",
+    "employeenumber":"",
+    "birthday":null,
+    "description":"",
+    "organization":"9b2eb34ed49b46da8587859f9ec8a6db",
+    "organizationName":"",
+    "department":null,
+    "departmentName":"",
+    "job":"",
+    "jobName":"",
+    "remark":"",
+    "address":"",
+    "manager":"",
+    "managerName":"",
+    "roleList":["4233a1939c9a47b183fcbbf1427ec120"],
+    "enable":0
+  },
+  "userdel": {
+
+  },
+  "useredit": {
+    "id": "",
+    "nickname":"hahaha",
+    "username":"ceshi",
+    "password":"123",
+    "gender":null,
+    "birthday":null,
+    "description":"",
+    "organization":"9b2eb34ed49b46da8587859f9ec8a6db",
+    "organizationName":"",
+    "department":null,
+    "roleList":["4233a1939c9a47b183fcbbf1427ec120"],
+    "enable":0
+  }
+}
